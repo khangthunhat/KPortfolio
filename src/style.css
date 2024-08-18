@@ -157,6 +157,7 @@ button:focus {
 .logo {
   height: 1.8em !important;
   width: 5.2em !important;
+  margin-left: 3rem;
 }
 
 .navbar-nav .nav-link {
@@ -272,12 +273,12 @@ button:focus {
 
 .heading {
   font-size: 2.4em !important;
-  padding-left: 50px !important;
+  padding-left: 150px !important;
 }
 
 .heading-name {
   font-size: 2.5em !important;
-  padding-left: 45px !important;
+  padding-left: 150px !important;
 }
 
 .main-name {
