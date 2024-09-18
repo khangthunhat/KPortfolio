@@ -262,7 +262,8 @@ button:focus {
   background-position: top center;
   background-repeat: no-repeat;
   padding-bottom: 30px !important;
-  padding-top: 30px !important;
+  padding-bottom: 300px !important;
+  padding-top: 50px !important;
 }
 
 .home-content {
