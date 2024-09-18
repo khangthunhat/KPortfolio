@@ -17,12 +17,13 @@ function BeHance() {
           refererPolicy="strict-origin-when-cross-origin"
         ></iframe>
       </Col>
+
       <Col xs={4} md={2} className="tech-icons">
         <iframe
           title="Behance Project Embed"
           src="https://www.behance.net/embed/project/208193371?ilo0=1"
-          height="316"
-          width="404"
+          height="310"
+          width="400"
           allowfullscreen
           lazyload
           frameborder="0"
