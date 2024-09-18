@@ -96,10 +96,10 @@ function NavBar() {
             <Nav.Item>
               <Nav.Link
                 as={Link}
-                to="/resume"
+                to="/photography"
                 onClick={() => updateExpanded(false)}
               >
-                <IoCameraOutline style={{ marginBottom: "2px" }} /> Photo Projects
+                <IoCameraOutline style={{ marginBottom: "2px" }} /> Photography
               </Nav.Link>
             </Nav.Item>
 

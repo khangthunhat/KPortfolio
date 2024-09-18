@@ -551,7 +551,7 @@ button:focus {
   color: white !important;
 }
 
-.tech-icons {
+.tech-icons{
   font-size: 4.5em !important;
   margin: 15px !important;
   padding: 10px !important;
@@ -565,6 +565,8 @@ button:focus {
   overflow: hidden !important;
   transition: all 0.4s ease 0s !important;
 }
+
+
 
 @media (max-width: 767px) {
   .tech-icons {

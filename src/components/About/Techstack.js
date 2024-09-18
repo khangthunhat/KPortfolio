@@ -10,9 +10,9 @@ import {
 } from "react-icons/di";
 import {
   SiNextdotjs,
-  SiPostgresql,
   SiPowerbi,
   SiDatabricks,
+  SiTypescript,
 } from "react-icons/si";
 function Techstack() {
   return (
@@ -24,23 +24,25 @@ function Techstack() {
         <DiJavascript1 />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
+        <SiTypescript />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
         <DiNodejs />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiReact />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiMongodb />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
         <SiNextdotjs />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
+        <DiMongodb />
+      </Col>
+      
+      <Col xs={4} md={2} className="tech-icons">
         <DiGit />
       </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiPostgresql />
-      </Col>
+     
       <Col xs={4} md={2} className="tech-icons">
         <SiPowerbi />
       </Col>
