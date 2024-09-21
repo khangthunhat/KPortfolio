@@ -9,7 +9,7 @@ import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 function ResumeNew() {
   return (
     <div>
-      <Container fluid className="resume-section">
+      <Container fluid className="photography-section">
         <Particle />
         <Container>
           <Row style={{ justifyContent: "center", position: "relative" }}>

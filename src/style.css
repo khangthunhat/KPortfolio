@@ -449,7 +449,7 @@ button:focus {
 .project-section {
   position: relative !important;
   padding-top: 150px !important;
-  padding-bottom: 30px !important;
+  padding-bottom: 100px !important;
   background-image: var(--section-background-color) !important;
 }
 
@@ -751,3 +751,12 @@ button:focus {
   margin: 0 auto;
   margin-top: -80px;
 }
+
+.photography-section {
+  position: relative !important;
+  padding-top: 150px !important;
+  padding-bottom: 290px !important;
+  background-image: var(--section-background-color) !important;
+}
+
+
